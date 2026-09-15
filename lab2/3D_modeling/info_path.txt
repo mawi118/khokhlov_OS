@@ -1,0 +1,5 @@
+/c/Users/admin/khokhlov_OS/lab2/3D_modeling
+[200~Blender
+Blender Foundation
+4.2 (2024)
+Полностью бесплатный и открытый пакет для 3D-моделирования, анимации и рендеринга~
